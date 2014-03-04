@@ -1,0 +1,11 @@
+DiffbotMW library depends on: 
+	'requests'
+
+
+To install the dependcy modules on Linux system:
+	# pip3 install requests
+
+
+To use diffbot_mw library with your project, just copy 'diffbot_mw.py' to your porject path or;
+To install diffbot_mw library on your system, from the library directory run:
+	# python3 setup.py install

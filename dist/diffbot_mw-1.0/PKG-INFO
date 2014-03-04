@@ -1,0 +1,16 @@
+Metadata-Version: 1.0
+Name: diffbot_mw
+Version: 1.0
+Summary: Handles DiffbotMW APIs fetching and returns JSON object of the result
+Home-page: http://cybertechlab.com
+Author: Islam Bahnasy
+Author-email: islam@cybertechlab.com
+License: GPL-V3
+Description: 
+        DiffbotMW
+        
+        This library makes a GET HTTP request to the DiffbotMW web API ex: "http://api.diffbot.com/v2/articles"
+        and gives a JSON object back of the result.
+        
+        
+Platform: UNKNOWN

@@ -1,0 +1,4 @@
+include README
+include INSTALL
+include diffbot_mw.py
+include setup.py
